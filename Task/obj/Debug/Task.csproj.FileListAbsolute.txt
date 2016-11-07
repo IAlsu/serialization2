@@ -1,0 +1,11 @@
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\Task.dll.config
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\Task.dll
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\Task.pdb
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\EntityFramework.dll
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\EntityFramework.xml
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\obj\Debug\Task.dll
+C:\Users\Alsu_Islamova\Desktop\Serialization\Task\Task\Task\Task\obj\Debug\Task.pdb
